@@ -34,4 +34,5 @@ public class Address {
 	
 	@Enumerated(EnumType.STRING)
 	private ShippingMethod shippingMethod;
+	
 }

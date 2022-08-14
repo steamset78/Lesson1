@@ -1,6 +1,5 @@
 package ecommerce.entity;
 
-import javax.persistence.Convert;
 import javax.persistence.Entity;
 import javax.persistence.EnumType;
 import javax.persistence.Enumerated;
